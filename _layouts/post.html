@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<header>
+  <h1 class="post-title">
+    {{ page.title | markdownify | remove: '<p>' | remove: '</p>' }}
+  </h1>
+
+  {% if page.subtitle %}
+    <h2 class="post-subtitle">
+      {{ page.subtitle | markdownify | remove: '<p>' | remove: '</p>' }}
+    </h2>
+  {% endif %}
+</header>
+<div class="content">
+  {% include post-meta.html post=page %}
+
+  <div class="post-body">
+    {{ content }}
+    {% include post-tags.html post=page %}
+  </div>
+
+  {% include comments.html %}
+  {% include related_posts.html %}
+</div>
