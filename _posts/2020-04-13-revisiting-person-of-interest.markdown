@@ -29,7 +29,7 @@ was right up my alley.
 
 I enjoyed the show so much that I used it as my example in an
 application essay for a class at Wesleyan called "Television
-Storytelling." Broadly, the prompt was to briefly discuss a show that
+Storytelling" -- the prompt was to briefly discuss a show that
 demonstrated narrative complexity. As someone who definitely would have
 considered himself a "TV connoisseur" at the time, I was determined to
 get into the class, despite not being a film or American studies major
@@ -63,8 +63,8 @@ is familiar and comforting. Until the music becomes the backdrop to that
 entire era of their life, and they can't listen to it without leaping
 back to those times. TV shows -- particularly network TV shows of that
 era -- were experienced once, usually, over the span of *years*. They
-hit you hard and fast and leave you reeling for days (sometimes weeks,
-months!) between episodes. They have exactly 42 minutes to tell their
+hit you hard and fast and left you reeling for days (sometimes weeks,
+months!) between episodes. They had exactly 42 minutes to tell their
 story, and only so much room for subtlety. Leave too much to the
 imagination, and the audience will imagine something better than you can
 ever deliver\*.
@@ -110,7 +110,7 @@ routinely prioritize their own interests and fail to adequately protect
 us at nearly every opportunity.
 
 And so my experience re-watching the show has been bittersweet. It's a
-sobering reminder of a time when the world felt under-control (maybe not
+sobering reminder of a time when the world felt under control (maybe not
 by a massive supercomputer, but at least by intelligent people who cared
 deeply), and the realities of its initial format highlight the
 sometimes-awkward contrivances that were necessary to support it. I will
