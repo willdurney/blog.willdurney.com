@@ -1,30 +1,30 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://blog.willdurney.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.willdurney.com/" rel="alternate" type="text/html" /><updated>2020-04-13T15:49:18-04:00</updated><id>https://blog.willdurney.com/feed.xml</id><title type="html">Prattle of Will’s</title><subtitle>I'm a software engineer, puzzle-solver, and lifelong tinkerer based in Washington, DC. These are my scattershot opinions on tech, pop culture, and the world.</subtitle><entry><title type="html">Revisiting *Person of Interest*</title><link href="https://blog.willdurney.com/2020/04/13/revisiting-person-of-interest.html" rel="alternate" type="text/html" title="Revisiting *Person of Interest*" /><published>2020-04-13T12:00:00-04:00</published><updated>2020-04-13T12:00:00-04:00</updated><id>https://blog.willdurney.com/2020/04/13/revisiting-person-of-interest</id><content type="html" xml:base="https://blog.willdurney.com/2020/04/13/revisiting-person-of-interest.html">&lt;p&gt;It’s worth noting upfront that this post is &lt;strong&gt;spoiler-free&lt;/strong&gt;. I’ve had spirited debates with friends
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="https://blog.willdurney.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://blog.willdurney.com/" rel="alternate" type="text/html" /><updated>2020-04-14T11:04:21-04:00</updated><id>https://blog.willdurney.com/feed.xml</id><title type="html">Prattle of Will’s</title><subtitle>I'm a software engineer, puzzle-solver, and lifelong tinkerer based in Washington, DC. These are my scattershot opinions on tech, pop culture, and the world.</subtitle><entry><title type="html">Revisiting *Person of Interest*</title><link href="https://blog.willdurney.com/2020/04/13/revisiting-person-of-interest.html" rel="alternate" type="text/html" title="Revisiting *Person of Interest*" /><published>2020-04-13T12:00:00-04:00</published><updated>2020-04-13T12:00:00-04:00</updated><id>https://blog.willdurney.com/2020/04/13/revisiting-person-of-interest</id><content type="html" xml:base="https://blog.willdurney.com/2020/04/13/revisiting-person-of-interest.html">&lt;p&gt;It’s worth noting upfront that this post is &lt;strong&gt;spoiler-free&lt;/strong&gt;. I’ve had spirited debates with friends
 and colleagues about whether intentional spoiling should be considered verbal assault; I won’t
 retread those here, but suffice it to say I like to avoid spoiling things for people, intentionally
 or otherwise.&lt;/p&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;Recently I’ve been re-watching &lt;em&gt;Person of Interest&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Recently I’ve been rewatching &lt;em&gt;Person of Interest&lt;/em&gt;.&lt;/p&gt;
 
 &lt;p&gt;In case you haven’t heard of it, it’s a crime/sci-fi/action procedural that aired on CBS from 2011
 to 2016 about a secret government computer system that spies on citizens to predict and prevent
 violent crimes.  When it started airing, my main activities were studying computer science and
-watching as many TV shows as possible – favorites from around that time included genre-neighbors
-like &lt;em&gt;24&lt;/em&gt;, &lt;em&gt;Breaking Bad, Chuck, Psych&lt;/em&gt;, &lt;em&gt;The Wire&lt;/em&gt;… the list goes on – so &lt;em&gt;Person of Interest&lt;/em&gt;
+watching as many TV shows as possible—favorites from around that time included genre-neighbors
+like &lt;em&gt;24&lt;/em&gt;, &lt;em&gt;Breaking Bad, Chuck, Psych&lt;/em&gt;, &lt;em&gt;The Wire&lt;/em&gt;… the list goes on—so &lt;em&gt;Person of Interest&lt;/em&gt;
 was right up my alley.&lt;/p&gt;
 
 &lt;!--more--&gt;
 
 &lt;p&gt;I enjoyed the show so much that I used it as my example in an application essay for a class at
-Wesleyan called “Television Storytelling” – the prompt was to briefly discuss a show that
+Wesleyan called “Television Storytelling”—the prompt was to briefly discuss a show that
 demonstrated narrative complexity. As someone who definitely would have considered himself a “TV
 connoisseur” at the time, I was determined to get into the class, despite not being a film or
 American studies major (an “outsider,” the professor called me, in our application email exchange).
 I’d been rejected with &lt;em&gt;The Wire&lt;/em&gt; the previous year, but &lt;em&gt;Person of Interest&lt;/em&gt; was a lucky second
 swing: the professor was a fan of the show. I joined and enjoyed the class, and for the final paper
 I stuck to my winning strategy and wrote about &lt;em&gt;POI&lt;/em&gt; again, expanding my application essay into an
-(upon re-read, somewhat overly-expositional and unfortunately spoiler-heavy) analysis of the show’s
+(upon reread, somewhat overly expositional and unfortunately spoiler heavy) analysis of the show’s
 journey from classic procedural to high-concept serialized drama.&lt;/p&gt;
 
 &lt;p&gt;Now, six years since writing that paper and four since the show concluded, I’m once again three
@@ -32,8 +32,8 @@ seasons into watching &lt;em&gt;Person of Interest&lt;/em&gt;, this time with hi
 your perspective), so of course I’m once again writing about it, too.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;POI&lt;/em&gt; was created by Jonathan Nolan, younger brother of Christopher and someone whose career I’ve
-followed with great interest. Nolan’s current project is &lt;em&gt;Westworld&lt;/em&gt; on HBO – another favorite of
-mine – which explores many of the same themes and sci-fi concepts, but for which Nolan (and
+followed with great interest. Nolan’s current project is &lt;em&gt;Westworld&lt;/em&gt; on HBO—another favorite of
+mine—which explores many of the same themes and sci-fi concepts, but for which Nolan (and
 co-creator Lisa Joy) presumably have far more creative control than Nolan had producing primetime TV
 for a major network. And I think of it of it as a spiritual sequel to &lt;em&gt;POI&lt;/em&gt;; a second album where
 the band doesn’t have to worry quite so much about getting on the radio.  Frankly, its existence is
@@ -42,48 +42,48 @@ a dream come true for me as a fan.&lt;/p&gt;
 &lt;p&gt;But a fan listens to their favorite album countless times, until they can practically play it in
 their mind. Until every word, note, and swell is familiar and comforting. Until the music becomes
 the backdrop to that entire era of their life, and they can’t listen to it without leaping back to
-those times. TV shows – particularly network TV shows of that era – were experienced once,
+those times. TV shows—particularly network TV shows of that era—were experienced once,
 usually, over the span of &lt;em&gt;years&lt;/em&gt;. They hit you hard and fast and left you reeling for days
 (sometimes weeks, months!) between episodes. They had exactly 42 minutes to tell their story, and
 only so much room for subtlety. Leave too much to the imagination, and the audience will imagine
 something better than you can ever deliver*.&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;*&lt;/em&gt;Lost &lt;em&gt;comes to mind, which I binged-watched after-the-fact and truly loved, but which massively
-divided fans who watched it as it aired, and inspired such a torrent of cyber-hate that creator
+&lt;p&gt;&lt;em&gt;*&lt;/em&gt;Lost &lt;em&gt;comes to mind, which I binge-watched after the fact and truly loved, but which massively
+divided fans who watched it as it aired, and inspired such a torrent of cyberhate that creator
 Damon Lindelof was forced to quit Twitter. He then proceeded to dunk on all of his haters by
 creating the two greatest follow-up albums the world’s ever seen:&lt;/em&gt; The Leftovers &lt;em&gt;(an exercise in
-the agony of searching for meaning – and not coincidentally my favorite show of all time) and&lt;/em&gt;
-Watchmen &lt;em&gt;(an insane gambit to follow-up a beloved comic series that somehow managed to delight even
+the agony of searching for meaning—and not coincidentally my favorite show of all time) and&lt;/em&gt;
+Watchmen &lt;em&gt;(an ambitious gambit to expand upon a beloved comic series that somehow managed to delight even
 the most diehard fans of the original).&lt;/em&gt;&lt;/p&gt;
 
 &lt;p&gt;Today we live in a television paradise. The advent of streaming and the popularization of premium
-cable has ushered in a completely new era, where companies compete over visionaries with even
+cable has ushered in a new era, where companies compete over visionaries with even
 moderate potential and give them complete creative freedom over their masterpieces. The virtual
 shelves are stocked with complex, serialized shows that drip with subtlety of storytelling and
-demand binge-watching (and often re-watching, after some time has passed, to squeeze out every last
+demand binge-watching (and often rewatching, after some time has passed, to squeeze out every last
 drop of impact), and there are far more available than I could possibly consume in my lifetime.&lt;/p&gt;
 
 &lt;p&gt;Nevertheless I was thrilled to see &lt;em&gt;Person of Interest&lt;/em&gt; on Netflix, and I leapt at the chance to
-revisit it. And I went in expecting &lt;em&gt;Westworld 1.0&lt;/em&gt; – and that’s how I’ve sold it to friends who
-haven’t seen it, too – but I’ve been reminded that it’s something entirely different. The themes
+revisit it. And I went in expecting &lt;em&gt;Westworld 1.0&lt;/em&gt;—and that’s how I’ve sold it to friends who
+haven’t seen it—but I’ve been reminded that it’s something entirely different. The themes
 are there, and the storytelling is as intricate as ever, but it’s undeniably a relic. &lt;em&gt;Person of
 Interest&lt;/em&gt; is the best possible version of what it is: a weekly procedural that tells a compelling,
-high-concept dystopian sci-fi story, while tricking you into thinking you’re watching a network TV
-show. And I think we’ve moved past that.&lt;/p&gt;
+dystopian sci-fi story, while tricking you into thinking you’re watching a network TV
+show. And I think we’ve moved past needing that.&lt;/p&gt;
 
 &lt;p&gt;The world has changed a lot since 2014, in many more ways than just the quality of our TV shows.
 &lt;em&gt;Person of Interest&lt;/em&gt; was ahead of its time but is also a product of it, both in execution and in
-subject matter. It’s almost hard to relate to &lt;em&gt;POI’s&lt;/em&gt; imagined dystopia – one where the
+subject matter. It’s almost hard to relate to &lt;em&gt;POI’s&lt;/em&gt; imagined dystopia—one where the
 government’s greatest evils are precipitated by its steadfast mission to protect the people, at all
-costs – when in reality we got the raw end of both deals: we’re spied on mainly for profit, and the
+costs—when in reality we got the raw end of both deals: we’re spied on mainly for profit, and the
 people in power routinely prioritize their own interests and seem incapable of adequately protecting
 us.&lt;/p&gt;
 
-&lt;p&gt;And so my experience re-watching the show has been bittersweet. It’s a sobering reminder of a time
+&lt;p&gt;And so my experience rewatching the show has been bittersweet. It’s a sobering reminder of a time
 when the world felt under control (maybe not by a massive supercomputer, but at least by intelligent
 people who cared deeply), and the realities of its initial format highlight the sometimes-awkward
 contrivances that were necessary to support it. I will always regard the show highly, and I’m
-looking forward to finishing my re-watch, but it’s not quite the same – nothing is.&lt;/p&gt;
+looking forward to finishing my rewatch, but it’s not quite the same—nothing is.&lt;/p&gt;
 
 &lt;p&gt;So, &lt;strong&gt;should you watch &lt;em&gt;Person of Interest&lt;/em&gt;?&lt;/strong&gt;&lt;/p&gt;
 
@@ -99,4 +99,4 @@ meticulously, as a weekly window into a world that grows and changes along with 
 fast, the long-term conflicts resolve too quickly and lose their impact.&lt;/p&gt;
 
 &lt;p&gt;If any of that sounds good, I wholeheartedly recommend it. But do yourself a favor and live in it
-for a while.&lt;/p&gt;</content><author><name></name></author><summary type="html">It’s worth noting upfront that this post is spoiler-free. I’ve had spirited debates with friends and colleagues about whether intentional spoiling should be considered verbal assault; I won’t retread those here, but suffice it to say I like to avoid spoiling things for people, intentionally or otherwise. Recently I’ve been re-watching Person of Interest. In case you haven’t heard of it, it’s a crime/sci-fi/action procedural that aired on CBS from 2011 to 2016 about a secret government computer system that spies on citizens to predict and prevent violent crimes. When it started airing, my main activities were studying computer science and watching as many TV shows as possible – favorites from around that time included genre-neighbors like 24, Breaking Bad, Chuck, Psych, The Wire… the list goes on – so Person of Interest was right up my alley.</summary></entry></feed>
+for a while.&lt;/p&gt;</content><author><name></name></author><summary type="html">It’s worth noting upfront that this post is spoiler-free. I’ve had spirited debates with friends and colleagues about whether intentional spoiling should be considered verbal assault; I won’t retread those here, but suffice it to say I like to avoid spoiling things for people, intentionally or otherwise. Recently I’ve been rewatching Person of Interest. In case you haven’t heard of it, it’s a crime/sci-fi/action procedural that aired on CBS from 2011 to 2016 about a secret government computer system that spies on citizens to predict and prevent violent crimes. When it started airing, my main activities were studying computer science and watching as many TV shows as possible—favorites from around that time included genre-neighbors like 24, Breaking Bad, Chuck, Psych, The Wire… the list goes on—so Person of Interest was right up my alley.</summary></entry></feed>
